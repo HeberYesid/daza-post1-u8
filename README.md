@@ -17,13 +17,13 @@ CRUD de Estudiante con Spring Boot + Spring Data JPA + Hibernate + MySQL.
 - MySQL 8+
 - Base de datos estudiantes_db
 
-## ConfiguraciÃƒÂ³n BD sugerida
+## Configuración BD sugerida
 
 - URL: jdbc:mysql://localhost:3306/estudiantes_db
 - Usuario: appuser
 - Clave: apppass
 
-## EjecuciÃƒÂ³n
+## Ejecución
 
 1. Crear base de datos y usuario en MySQL
 2. Ajustar credenciales en application.properties
@@ -32,5 +32,9 @@ CRUD de Estudiante con Spring Boot + Spring Data JPA + Hibernate + MySQL.
 
 ## Capturas
 
-Guardar evidencias en capturas/.
+![delete](capturas/delete.png)
+![edit](capturas/edit.png)
+![home](capturas/app.png)
+![new](capturas/estudiantes.png)
+
 
